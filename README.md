@@ -1,2 +1,2 @@
 # demodjango
-a
+Hello
